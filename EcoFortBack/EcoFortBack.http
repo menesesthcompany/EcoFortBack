@@ -1,0 +1,6 @@
+@EcoFortBack_HostAddress = http://localhost:5196
+
+GET {{EcoFortBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
